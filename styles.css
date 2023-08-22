@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+#zero{
+	width:600px;
+	height:300px;
+	background:lightblue;
+	padding: 50px
+}
+#first,#second{
+	width:600px;
+	height:80px;
+	background:white;
+	border: 1px lightblue;
+	padding:10px;
+}
+p:last-child{
+	text-align:right;
+	font-style:italic;
+}
